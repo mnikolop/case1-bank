@@ -49,7 +49,7 @@ From this process we identified that creating the NBO model based on the current
 
 The first step in the analytics process was to perform a data investigation.
 Through that the content of the data was identified.
-One of the main findings from the initial steps of this process as that the failures are a a lot higher than the successes. This can result to over classification of the final model.
+One of the main findings from the initial steps of this process as that the failures are a a lot higher than the successes. This can result to over classification of the final model.  
 ![](graphs\yCount.png)  
 This step also included the creation of a decision tree to help identify the most important features. The result of this tree was that the features were ranked in their importance so they can be used more productively in the model creation.
 ![](graphs\feature_importance.png)
